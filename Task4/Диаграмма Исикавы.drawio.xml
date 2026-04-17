@@ -1,0 +1,207 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="C_pJsRoKT1Ap8Awair66">
+    <mxGraphModel dx="3166" dy="2491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="InfQEM-HJrsk2CvomBzf-1" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="Миграция" vertex="1">
+          <mxGeometry height="120" width="110" x="610" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="InfQEM-HJrsk2CvomBzf-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="330" />
+            </Array>
+            <mxPoint x="-220" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="-70" as="sourcePoint" />
+            <mxPoint x="480" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-4" connectable="0" parent="InfQEM-HJrsk2CvomBzf-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" value="Инфраструктура" vertex="1">
+          <mxGeometry relative="1" x="-0.1986" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="330" as="sourcePoint" />
+            <mxPoint y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-6" connectable="0" parent="InfQEM-HJrsk2CvomBzf-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Процессы" vertex="1">
+          <mxGeometry relative="1" x="0.0225" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="330" as="sourcePoint" />
+            <mxPoint x="-110" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-8" connectable="0" parent="InfQEM-HJrsk2CvomBzf-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Данные" vertex="1">
+          <mxGeometry relative="1" x="0.0609" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="660" as="sourcePoint" />
+            <mxPoint x="480" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-10" connectable="0" parent="InfQEM-HJrsk2CvomBzf-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Персонал" vertex="1">
+          <mxGeometry relative="1" x="0.0781" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="70" y="710" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-12" connectable="0" parent="InfQEM-HJrsk2CvomBzf-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Контроль" vertex="1">
+          <mxGeometry relative="1" x="0.0781" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-90" y="640" as="sourcePoint" />
+            <mxPoint x="80" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-15" connectable="0" parent="InfQEM-HJrsk2CvomBzf-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Внешние факторы" vertex="1">
+          <mxGeometry relative="1" x="0.0781" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="310" as="sourcePoint" />
+            <mxPoint x="470" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-17" connectable="0" parent="InfQEM-HJrsk2CvomBzf-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" value="Единая точка отказа" vertex="1">
+          <mxGeometry relative="1" x="0.265" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Неготовность сервисов к облачной инфраструктуре&lt;/span&gt;">
+          <mxGeometry height="50" relative="1" width="50" x="0.0012" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="425" y="230" as="sourcePoint" />
+            <mxPoint x="425" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="-430" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-21" connectable="0" parent="InfQEM-HJrsk2CvomBzf-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" value="Сетевые задержки и недоступность облачной инфраструктуры" vertex="1">
+          <mxGeometry relative="1" x="0.4193" y="1" as="geometry">
+            <mxPoint x="-1" y="-117" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-22" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Спешение ПД с другими данными">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="50" as="sourcePoint" />
+            <mxPoint x="60" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Ошибки при вводе данных">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="40" as="sourcePoint" />
+            <mxPoint x="260" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Отсутствие CI/CD">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="-70" as="sourcePoint" />
+            <mxPoint x="200" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Создание Бэкапов">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="-210" as="sourcePoint" />
+            <mxPoint x="120" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Управление конфигурацией">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="-390.0000732421875" as="sourcePoint" />
+            <mxPoint x="40" y="-106.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Неструктурированность данных">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Качество и целостность данных">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-50" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Сопротивление изменениям">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="630" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Отсутствие компетенций для работы с новой системой">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="830" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Разрушение каналов коммуникации">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="940" as="sourcePoint" />
+            <mxPoint x="320" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Логирование">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="650" as="sourcePoint" />
+            <mxPoint x="250" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Аудит">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="790" as="sourcePoint" />
+            <mxPoint x="170" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Мониторинг">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="930" as="sourcePoint" />
+            <mxPoint x="90" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Требования регуляторов">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="400" as="sourcePoint" />
+            <mxPoint x="40" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InfQEM-HJrsk2CvomBzf-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;horizontal=0;" value="Интеграции с API лаборатории">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-40" y="550" as="sourcePoint" />
+            <mxPoint x="-40" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
