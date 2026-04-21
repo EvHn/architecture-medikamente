@@ -1,0 +1,78 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="WuAdYRODG_tUHvMZAe6G">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="axmOTbthI3aVxUqp59pq-16" edge="1" parent="1" source="axmOTbthI3aVxUqp59pq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="axmOTbthI3aVxUqp59pq-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343.75" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-11" connectable="0" parent="axmOTbthI3aVxUqp59pq-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Результаты анализов" vertex="1">
+          <mxGeometry relative="1" x="-0.247" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axmOTbthI3aVxUqp59pq-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Лаборант" vertex="1">
+          <mxGeometry height="50" width="100" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="axmOTbthI3aVxUqp59pq-11" edge="1" parent="1" source="axmOTbthI3aVxUqp59pq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="axmOTbthI3aVxUqp59pq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405.0999999999999" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-13" connectable="0" parent="axmOTbthI3aVxUqp59pq-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Результаты анализов" vertex="1">
+          <mxGeometry relative="1" x="-0.1477" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-6" edge="1" parent="1" source="axmOTbthI3aVxUqp59pq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="M8tUm5_Qf1hiVJ52p8JO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-7" connectable="0" parent="M8tUm5_Qf1hiVJ52p8JO-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Данные пациентов" vertex="1">
+          <mxGeometry relative="1" x="-0.352" y="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axmOTbthI3aVxUqp59pq-8" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Администратор?" vertex="1">
+          <mxGeometry height="50" width="100" x="130" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="axmOTbthI3aVxUqp59pq-10" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="Реестр анализов за день на диске" vertex="1">
+          <mxGeometry height="40" width="230" x="371.25" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-12" edge="1" parent="1" source="axmOTbthI3aVxUqp59pq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="axmOTbthI3aVxUqp59pq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-14" connectable="0" parent="M8tUm5_Qf1hiVJ52p8JO-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Результаты анализов" vertex="1">
+          <mxGeometry relative="1" x="-0.0559" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axmOTbthI3aVxUqp59pq-12" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Получение анализов из лаборатории" vertex="1">
+          <mxGeometry height="120" width="122.5" x="425" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-9" edge="1" parent="1" source="M8tUm5_Qf1hiVJ52p8JO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="axmOTbthI3aVxUqp59pq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-10" connectable="0" parent="M8tUm5_Qf1hiVJ52p8JO-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Данные пациентов" vertex="1">
+          <mxGeometry relative="1" x="0.032" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-4" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="Передача биоматериалов&lt;div&gt;и данных пациентов для проведения анализа&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="70" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Обезличивание аднных" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Шифрование" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="M8tUm5_Qf1hiVJ52p8JO-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Маскирование данных" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
